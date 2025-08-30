@@ -13,6 +13,8 @@ class main {
             data = x;
             left = null;
             right = null;
+            // yipee /
+            // yipeee yaaay
         }
     }
 
